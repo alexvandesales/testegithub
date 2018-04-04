@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">teste git hub</string>
+
+    <string name="navigation.drawer.open">Open navigation drawer</string>
+    <string name="navigation.drawer.close">Close navigation drawer</string>
+
+    <string name="title.main.activity">Exemplo de App acessando API GitHub</string>
+    <string name="title">title</string>
+    <string name="description">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.</string>
+    <string name="author">author</string>
+    <string name="author.full.name">full name author</string>
+    <string name="created.at">created at:</string>
+    <string name="date.sample">01-01-1990 00:00:00</string>
+    <string name="avatar.author">avatar author</string>
+
+    <string name="icon.fork">icon fork</string>
+    <string name="icon.star">icon star</string>
+    <string name="error.message.call">Error while executing the request!</string>
+    <string name="network.unavailable.message">Network unavailable, verify your connection!</string>
+
+    <string name="label.fork">total of fork</string>
+    <string name="label.star">total of star</string>
+    <string name="label.total">00</string>
+    <string name="label.pull.request.open" formatted="false">%s opened</string>
+    <string name="label.pull.request.closed">%s closed</string>
+</resources>
